@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4.0",
-  "download_url": "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.4.0/Monthly.Exclusion.Screening.Tool.exe",
+  "latest_version": "1.4.1",
+  "download_url": "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.4.1/Monthly.Exclusion.Screening.Tool.exe",
   "notes": "Initial GitHub-ready version with local settings, employee folders, modern GUI, and update checker."
 }
