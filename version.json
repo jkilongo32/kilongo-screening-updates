@@ -1,5 +1,5 @@
 {
-    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.3/Monthly.Exclusion.Screening.Tool.exe",
-    "notes":  "Logo added",
-    "latest_version":  "1.6.3"
+    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.4/Monthly.Exclusion.Screening.Tool.exe",
+    "notes":  "Added cropped Kilongo Technologies logo to the sidebar and dashboard header, improved card styling, and fixed the header text formatting.",
+    "latest_version":  "1.6.4"
 }
