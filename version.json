@@ -1,5 +1,5 @@
 {
     "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.2/Monthly.Exclusion.Screening.Tool.exe",
-    "notes":  "Fixed version.json encoding so update checks work correctly without UTF-8 BOM errors.",
+    "notes":  "Rebuilt with Python 3.11 for improved EXE compatibility and fixed previous startup packaging errors.",
     "latest_version":  "1.6.2"
 }
