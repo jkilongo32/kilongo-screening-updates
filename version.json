@@ -1,5 +1,5 @@
 ﻿{
     "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.1/Monthly.Exclusion.Screening.Tool.exe",
-    "notes":  "Fixed missing Pillow dependency required for image support.",
+    "notes":  "Fixed YAML issue",
     "latest_version":  "1.6.1"
 }
