@@ -1,5 +1,5 @@
 {
-    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.2/Monthly.Exclusion.Screening.Tool.exe",
-    "notes":  "Rebuilt with Python 3.11 for improved EXE compatibility and fixed previous startup packaging errors.",
-    "latest_version":  "1.6.2"
+    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.3/Monthly.Exclusion.Screening.Tool.exe",
+    "notes":  "Logo added",
+    "latest_version":  "1.6.3"
 }
