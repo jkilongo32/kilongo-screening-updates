@@ -1,5 +1,5 @@
 {
-    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.6/Monthly.Exclusion.Screening.Tool.exe",
-    "notes":  "Added update guard protection to prevent stale downloaded updates from installing over the current version.",
-    "latest_version":  "1.6.6"
+    "download_url":  "https://github.com/jkilongo32/kilongo-screening-updates/releases/download/v1.6.9/Monthly.Exclusion.Screening.Tool.exe",
+    "notes":  "Fixed Sam.gov false possible match and made main dashboard scrollable",
+    "latest_version":  "1.6.9"
 }
